@@ -1,0 +1,6 @@
+@AI_SP_HostAddress = http://localhost:5195
+
+GET {{AI_SP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
